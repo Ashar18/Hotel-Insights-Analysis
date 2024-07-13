@@ -12,9 +12,6 @@ The data used in this project includes:
 - **Hotel Table**: Fact table containing detailed hotel data for both Resort and City hotels from 2015 to 2017.
 - **Calendar Table**: Dimension table created through a query to provide a comprehensive date dimension for time-based analysis.
 
-## Data Modeling
-1. **Fact Table**: The primary table containing all hotel data.
-2. **Dim Table**: A Calendar table created through a query to facilitate time-based analysis.
 
 ## Measures
 The following measures were created using DAX to facilitate analysis and visualization:
