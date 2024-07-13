@@ -36,7 +36,7 @@ The following measures were created using DAX to facilitate analysis and visuali
 4. Explore the dashboard to analyze hotel performance.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/47664565-98ed-4bd4-b83e-bb2b00c185ce)
+![image](https://github.com/user-attachments/assets/8dfd17b5-6af4-4e46-bce7-b02dbd3812fc)
 
 
 ## License
